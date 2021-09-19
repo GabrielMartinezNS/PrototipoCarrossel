@@ -1,1 +1,1 @@
-Prototipo de carrocel feito utilisando HTML e CSS.
+Protótipo de carrossel feito utilisando HTML e CSS.
